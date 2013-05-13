@@ -11,5 +11,8 @@
   "license": "APLv2",
   "scripts": [
     "bootstrap-modal.js"
+  ],
+  "styles": [
+    "bootstrap-modal.css"
   ]
 }
