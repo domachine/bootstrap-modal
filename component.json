@@ -9,9 +9,7 @@
   },
   "development": {},
   "license": "APLv2",
-  "scripts": [
-    "bootstrap-modal.js"
-  ],
+  "scripts": [],
   "styles": [
     "bootstrap-modal.css"
   ]
